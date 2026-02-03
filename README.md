@@ -1,5 +1,5 @@
 #  About Me:
-👋 Hey there! I'm Rajpreet<br>Welcome to my corner of GitHub! I'm passionate about solving problems, building cool things, and sharing what I learn along the way.<br><br>💡 I am currently working on a AI FaQ Generator, Platform Independent Clipboard (Cloud Clipboard) and on my B2B2C SaaS: Kumasy<br>Whether it's coding up a storm or brainstorming new ideas, I’m always up for a challenge.<br><br>🎨 What I love working on:<br><br>Web Development 🌐 (JavaScript, Next, and more!)<br>E-commerce & Business Solutions 💼<br>Fun side projects 🤝<br>
+👋 Hey there! I'm Rajpreet<br>Welcome to my corner of GitHub! I'm passionate about solving problems, building cool things, and sharing what I learn along the way.<br><br>💡 I am currently working on a Sport Prediction Engine, Platform Independent Clipboard (Cloud Clipboard) and on my B2B2C SaaS: Kumasy<br>Whether it's coding up a storm or brainstorming new ideas, I’m always up for a challenge.<br>
 
 
 ## 🌐 Socials:
